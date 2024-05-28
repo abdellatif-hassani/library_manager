@@ -1,16 +1,21 @@
-# library_manager
+# Library Manager
 
-A new Flutter project.
+Welcome to **Library Manager**, a Flutter application designed to manage books and members of a library efficiently. This app provides features to list, add, edit, delete, and view details of both books and members.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Books Management**: 
+  - List all books with details.
+  - Add new books.
+  - Edit existing books.
+  - Delete books with confirmation dialog.
+  - Search and filter books.
 
-A few resources to get you started if this is your first Flutter project:
+- **Members Management**: 
+  - List all members with details.
+  - Add new members.
+  - Edit existing members.
+  - Delete members with confirmation dialog.
+  - Search and filter members.
+  - View borrowed books by each member.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
